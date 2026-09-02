@@ -1,8 +1,9 @@
-jupyterlab
-matplotlib
-napari
-numpy
-pandas
-scikit-image
-scipy
-tifffile
+# For Python 3.12 or newer
+jupyterlab>=4.0
+matplotlib>=3.8
+napari>=0.5
+numpy>=1.26
+pandas>=2.1
+scikit-image>=0.22
+scipy>=1.11
+tifffile>=2023.9.26
