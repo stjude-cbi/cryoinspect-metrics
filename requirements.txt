@@ -1,0 +1,8 @@
+jupyterlab
+matplotlib
+napari
+numpy
+pandas
+scikit-image
+scipy
+tifffile
